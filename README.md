@@ -2,7 +2,7 @@ Make sure Pi is connected to power and serial
 
 ssh -X pi@192.168.1.2
 
-sudo chmod o+rw /dev/ttyS0
+sudo chmod o+rw /dev/ttyUSB0
 
 'gtkterm' in terminal
 Configure port to USB0
