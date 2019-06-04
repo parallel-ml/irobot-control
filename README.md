@@ -1,3 +1,5 @@
+# We are not using this repos anymore. Please use [pycreate2](https://github.com/parallel-ml/pycreate2) library instead.
+
 Make sure Pi is connected to power and serial  
 
 ssh -X pi@192.168.1.2  
